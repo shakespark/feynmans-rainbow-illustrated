@@ -1,0 +1,148 @@
+# 图片出处
+
+本目录的照片都来自维基共享资源（Wikimedia Commons），授权为公有领域或 CC BY / CC BY-SA。示意图（页面内的 SVG）是本站自己画的。
+
+- `00-lauritsen.jpg` — File:Downs and Lauritsen Laboratories Caltech 2018.jpg — Antony-22 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Downs_and_Lauritsen_Laboratories_Caltech_2018.jpg
+- `00-feynman.jpg` — File:Richard Feynman 1988.png — 作者不详（加州理工年刊 The Big T） — Public domain — https://commons.wikimedia.org/wiki/File:Richard_Feynman_1988.png
+- `00-gellmann.jpg` — File:Murray Gell-Mann 1965.png — 作者不详（加州理工年刊 The Big T） — Public domain — https://commons.wikimedia.org/wiki/File:Murray_Gell-Mann_1965.png
+- `00-challenger.jpg` — File:Challenger explosion.jpg — Kennedy Space Center / NASA — Public domain — https://commons.wikimedia.org/wiki/File:Challenger_explosion.jpg
+- `07-huntington.jpg` — File:Desert Garden cacti at Huntington Library.jpg — gloria_euyoque — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ADesert_Garden_cacti_at_Huntington_Library.jpg
+- `08-einstein.jpg` — File:Einstein 1921 by F Schmutzer - restoration.jpg — Ferdinand Schmutzer / Adam Cuerden — Public domain — https://commons.wikimedia.org/wiki/File%3AEinstein_1921_by_F_Schmutzer_-_restoration.jpg
+- `08-helium.jpg` — File:Liquid helium Rollin film.jpg — I, AlfredLeitner, took this photograph as part of my movie "Liquid Helium,Superf — Public domain — https://commons.wikimedia.org/wiki/File%3ALiquid_helium_Rollin_film.jpg
+- `09-maxwell.jpg` — File:James Clerk Maxwell, G.J. Stodart, 1890.jpg — G.J. Stodart — Public domain — https://commons.wikimedia.org/wiki/File%3AJames_Clerk_Maxwell%2C_G.J._Stodart%2C_1890.jpg
+- `09-oersted.jpg` — File:Oersted experiment.png — Agustin Privat-Deschanel — Public domain — https://commons.wikimedia.org/wiki/File%3AOersted_experiment.png
+- `09-einstein.jpg` — File:Albert Einstein 1947.jpg — Oren Jack Turner — Public domain — https://commons.wikimedia.org/wiki/File%3AAlbert_Einstein_1947.jpg
+- `08-centipede.jpg` — File:Centipede in guadeloupe.jpg — Filo gèn' — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ACentipede_in_guadeloupe.jpg
+- `01-sangabriel.jpg` — File:San Gabriel Mountains from Pasadena.jpg — Downtowngal — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ASan_Gabriel_Mountains_from_Pasadena.jpg
+- `01-feynman1959.jpg` — File:Richard Feynman 1959.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_1959.png
+- `09-nambu.jpg` — File:Yoichiro Nambu 1965.jpg — 朝日新聞社 撮影：岡松出版写真部 — Public domain — https://commons.wikimedia.org/wiki/File%3AYoichiro_Nambu_1965.jpg
+- `09-susskind.jpg` — File:LeonardSusskindStanfordNov2013.jpg — Acmedogs — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ALeonardSusskindStanfordNov2013.jpg
+- `09-violin.jpg` — File:Details of an old Violin (33039808838).jpg — Dejan Krsmanovic — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ADetails_of_an_old_Violin_%2833039808838%29.jpg
+- `10-athenaeum.jpg` — File:Athenaeum Caltech 2020a.jpg — Antony-22 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AAthenaeum_Caltech_2020a.jpg
+- `01-campus.jpg` — File:Caltech Campus.jpg — Boothsift — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ACaltech_Campus.jpg
+- `02-kibbutz.jpg` — File:KIBBUTZ KIRYAT ANAVIM.jpg — Fritz Cohen — Public domain — https://commons.wikimedia.org/wiki/File%3AKIBBUTZ_KIRYAT_ANAVIM.jpg
+- `07-wolfram.jpg` — File:Stephen Wolfram PR (cropped).jpg — Stephen Wolfram's PR team/Stephen Faust — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AStephen_Wolfram_PR_%28cropped%29.jpg
+- `03-olivewalk.jpg` — File:Olive Walk 1941.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AOlive_Walk_1941.png
+- `03-athenaeum.jpg` — File:Athenaeum Caltech 2020a.jpg — Antony-22 — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AAthenaeum_Caltech_2020a.jpg
+- `02-planck.jpg` — File:Max Planck 1901.GIF — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3AMax_Planck_1901.GIF
+- `03-pauling.jpg` — File:Linus Pauling 1941.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ALinus_Pauling_1941.png
+- `05-feynman1984.jpg` — File:RichardFeynman-PaineMansionWoods1984 copyrightTamikoThiel bw.jpg — Copyright Tamiko Thiel 1984 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ARichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg
+- `05-athenaeum.jpg` — File:Caltech Athenaeum Exterior.jpg — Nick Webb — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ACaltech_Athenaeum_Exterior.jpg
+- `05-apes-book.jpg` — File:MU PH eIII 3 - Wolfgang Kohler - Intelligenzprüfungen an Menschenaffen.jpg — Wolfgang Kohler — Public domain — https://commons.wikimedia.org/wiki/File%3AMU_PH_eIII_3_-_Wolfgang_Kohler_-_Intelligenzpr%C3%BCfungen_an_Menschenaffen.jpg
+- `05-chimp-boxes.jpg` — File:Creation by Evolution (1928) p300 face chimpanzee piling boxes (sepia tone).jpg — Internet Archive Book Images — Public domain — https://commons.wikimedia.org/wiki/File%3ACreation_by_Evolution_%281928%29_p300_face_chimpanzee_piling_boxes_%28sepia_tone%29.jpg
+- `05-einstein1916.jpg` — File:08608 einstein 1916.jpg — Paul Ehrenfest — Public domain — https://commons.wikimedia.org/wiki/File%3A08608_einstein_1916.jpg
+- `05-telescope.jpg` — File:Galilei telescopes, Museo Galileo, Florence, Inv. 242, 2428, 224088.jpg — Zde — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AGalilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg
+- `10-einstein1904.jpg` — File:Einstein patentoffice full.jpg — Lucien Chavan [1] (1868 - 1942), a friend of Einstein's when he was living in Be — Public domain — https://commons.wikimedia.org/wiki/File%3AEinstein_patentoffice_full.jpg
+- `05-checker.jpg` — File:1980 Checker A12 Marathon Taxi (45966007431).jpg — Sicnag — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3A1980_Checker_A12_Marathon_Taxi_%2845966007431%29.jpg
+- `10-newton.jpg` — File:Portrait of Sir Isaac Newton, 1689 (brightened).jpg — Godfrey Kneller — Public domain — https://commons.wikimedia.org/wiki/File%3APortrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg
+- `03-richter.jpg` — File:Charles Richter analyzing a seismograph log.jpg — Gil Cooper, Los Angeles Times — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3ACharles_Richter_analyzing_a_seismograph_log.jpg
+- `10-athenaeum1966.jpg` — File:Athenaeum Caltech 1966.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AAthenaeum_Caltech_1966.png
+- `04-bubble.jpg` — File:Liquid hydrogen bubble chamber photograph of an anti-proton colliding with a proton.jpg — ENERGY.GOV — Public domain — https://commons.wikimedia.org/wiki/File%3ALiquid_hydrogen_bubble_chamber_photograph_of_an_anti-proton_colliding_with_a_proton.jpg
+- `02-dennis.jpg` — File:Dennis the Menace Jay North 1959.jpg — It is unclear as to whether Screen Gems Television (the studio which produced th — Public domain — https://commons.wikimedia.org/wiki/File%3ADennis_the_Menace_Jay_North_1959.jpg
+- `05-koestler.jpg` — File:Arthur Koestler (1969) (cropped).jpg — Eric Koch for Anefo — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AArthur_Koestler_%281969%29_%28cropped%29.jpg
+- `06-rathbone.jpg` — File:Basil Rathbone Sherlock Holmes.jpeg — 20th Century Fox, photographer not identified — Public domain — https://commons.wikimedia.org/wiki/File%3ABasil_Rathbone_Sherlock_Holmes.jpeg
+- `04-geiger.jpg` — File:Geiger counter 2.jpg — TimVickers — Public domain — https://commons.wikimedia.org/wiki/File%3AGeiger_counter_2.jpg
+- `06-columbo.jpg` — File:Peter Falk Colombo 1973.jpg — NBC Television — Public domain — https://commons.wikimedia.org/wiki/File%3APeter_Falk_Colombo_1973.jpg
+- `06-rockford.jpg` — File:James Garner James Whitmore Jr. Rockford Files 1977.JPG — NBC Television — Public domain — https://commons.wikimedia.org/wiki/File%3AJames_Garner_James_Whitmore_Jr._Rockford_Files_1977.JPG
+- `11-badge.jpg` — File:Richard Feynman Los Alamos ID badge.jpg — United States Army — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_Los_Alamos_ID_badge.jpg
+- `01-berkeley.jpg` — File:UC-Berkeley-campus-overview-from-hills.h.jpg — User:Introvert — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File%3AUC-Berkeley-campus-overview-from-hills.h.jpg
+- `06-spade.jpg` — File:SamSpadeMaltFalc1941Trailer.jpg — my own screen capture — Public domain — https://commons.wikimedia.org/wiki/File%3ASamSpadeMaltFalc1941Trailer.jpg
+- `02-volunteers.jpg` — File:Austrian Volunteers in Ein Hashofet July 19732.JPG — Robert Schediwy — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AAustrian_Volunteers_in_Ein_Hashofet_July_19732.JPG
+- `06-heisenberg.jpg` — File:Heisenberg 10.jpg — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AHeisenberg_10.jpg
+- `02-tonomura.jpg` — File:Double-slit experiment results Tanamura 4.jpg — File:Double-slit experiment results Tonomura 2.jpg: user:Belsazar derivative wor — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ADouble-slit_experiment_results_Tanamura_4.jpg
+- `06-trinity.jpg` — File:Trinity Test Fireball 16ms.jpg — Berlyn Brixner / Los Alamos National Laboratory — Public domain — https://commons.wikimedia.org/wiki/File%3ATrinity_Test_Fireball_16ms.jpg
+- `06-arnold.jpg` — File:Arnold Schwarzenegger 1974.jpg — Madison Square Garden Center — Public domain — https://commons.wikimedia.org/wiki/File%3AArnold_Schwarzenegger_1974.jpg
+- `06-darwin.jpg` — File:Charles Darwin 01.jpg — Julia Margaret Cameron — Public domain — https://commons.wikimedia.org/wiki/File%3ACharles_Darwin_01.jpg
+- `06-feynman1959.jpg` — File:Richard Feynman 1959.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_1959.png
+- `11-crookes.jpg` — File:Crookes tube two views.jpg — D-Kuru — CC BY-SA 3.0 at — https://commons.wikimedia.org/wiki/File%3ACrookes_tube_two_views.jpg
+- `11-shelley.jpg` — File:RothwellMaryShelley.jpg — Richard Rothwell — Public domain — https://commons.wikimedia.org/wiki/File%3ARothwellMaryShelley.jpg
+- `12-rockford.jpg` — File:James Garner James Whitmore Jr. Rockford Files 1977.JPG — NBC Television — Public domain — https://commons.wikimedia.org/wiki/File%3AJames_Garner_James_Whitmore_Jr._Rockford_Files_1977.JPG
+- `05-burger.jpg` — File:Hamburger and onion rings.jpg — jeffreyw — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AHamburger_and_onion_rings.jpg
+- `02-war.jpg` — File:Yom Kippur War. XXXVI.jpg — Bamahane photographer — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AYom_Kippur_War._XXXVI.jpg
+- `12-holmes.jpg` — File:Portrait of Sherlock Holmes by Sidney Paget-Cropped.jpg — Sidney Paget 1860-1908 — Public domain — https://commons.wikimedia.org/wiki/File%3APortrait_of_Sherlock_Holmes_by_Sidney_Paget-Cropped.jpg
+- `06-bohr.jpg` — File:Niels Bohr.jpg — The American Institute of Physics AB Lagrelius & Westphal（据美国物理联合会） — Public domain — https://commons.wikimedia.org/wiki/File%3ANiels_Bohr.jpg
+- `12-chew.jpg` — File:International Conference on High Energy Physics participants, 1966.jpg — Lawrence Berkeley National Laboratory — Public domain — https://commons.wikimedia.org/wiki/File%3AInternational_Conference_on_High_Energy_Physics_participants%2C_1966.jpg
+- `12-cern.jpg` — File:CERN-aerial 1.jpg — Brücke-Osteuropa — CC0 — https://commons.wikimedia.org/wiki/File%3ACERN-aerial_1.jpg
+- `12-einstein.jpg` — File:Einstein 1921 by F Schmutzer - restoration.jpg — Ferdinand Schmutzer / Adam Cuerden — Public domain — https://commons.wikimedia.org/wiki/File%3AEinstein_1921_by_F_Schmutzer_-_restoration.jpg
+- `11-hopechest.jpg` — File:Friis Nybo Girl Inspecting Her Hope Chest.jpg — Poul Friis Nybo — Public domain — https://commons.wikimedia.org/wiki/File%3AFriis_Nybo_Girl_Inspecting_Her_Hope_Chest.jpg
+- `11-spectrum.jpg` — File:Visible spectrum of hydrogen.jpg — Jan Homann — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AVisible_spectrum_of_hydrogen.jpg
+- `03-sperry.jpg` — File:Roger Sperry 1986.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ARoger_Sperry_1986.png
+- `03-athenaeum-ext.jpg` — File:Caltech Athenaeum Exterior.jpg — Nick Webb — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ACaltech_Athenaeum_Exterior.jpg
+- `04-mendeleev.jpg` — File:Mendeleev's periodic table (1869 year).jpg — Dmitri Mendeleev — Public domain — https://commons.wikimedia.org/wiki/File%3AMendeleev%27s_periodic_table_%281869_year%29.jpg
+- `04-tablet.jpg` — File:YBC-7289-OBV-labeled.jpg — Urcia, A., Yale Peabody Museum of Natural History, https://peabody.yale.edu, htt — CC0 — https://commons.wikimedia.org/wiki/File%3AYBC-7289-OBV-labeled.jpg
+- `02-einstein.jpg` — File:Einstein 1921 by F Schmutzer - restoration (cropped).jpg — Ferdinand Schmutzer / Adam Cuerden — Public domain — https://commons.wikimedia.org/wiki/File%3AEinstein_1921_by_F_Schmutzer_-_restoration_%28cropped%29.jpg
+- `04-athens.jpg` — File:Sanzio 01 Plato Aristotle.jpg — Raphael — Public domain — https://commons.wikimedia.org/wiki/File%3ASanzio_01_Plato_Aristotle.jpg
+- `02-prism.jpg` — File:Prisms.jpg — Sobolishko — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3APrisms.jpg
+- `04-dyson.jpg` — File:Freeman Dyson.jpg — Taken by Flickr user ioerror, Jacob Appelbaum — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AFreeman_Dyson.jpg
+- `02-bongo.jpg` — File:Bongo.jpg — 作者不详 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ABongo.jpg
+- `04-witten.jpg` — File:Edward Witten.jpg — Ojan — Public domain — https://commons.wikimedia.org/wiki/File%3AEdward_Witten.jpg
+- `04-dirac.jpg` — File:Paul Dirac and Richard Feynman at Jabłonna 1962.png — Marek Holzman — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3APaul_Dirac_and_Richard_Feynman_at_Jab%C5%82onna_1962.png
+- `03-reagan.jpg` — File:Ronald-Reagan-governor-California Crop.jpg — Ronald Reagan Library — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ARonald-Reagan-governor-California_Crop.jpg
+- `03-einstein.jpg` — File:Millikan and Einstein 1932.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AMillikan_and_Einstein_1932.png
+- `04-columbo.jpg` — File:Peter Falk Colombo 1973.jpg — NBC Television — Public domain — https://commons.wikimedia.org/wiki/File%3APeter_Falk_Colombo_1973.jpg
+- `04-gellmann2007.jpg` — File:Murray Gell-Mann.jpg — jurvetson of flickr.com — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AMurray_Gell-Mann.jpg
+- `04-bolo.jpg` — File:Turquoise Bolo Tie.jpg — PLBechly — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ATurquoise_Bolo_Tie.jpg
+- `12-mountains.jpg` — File:San Gabriel Mountains from eastern Pasadena.jpg — Downtowngal — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ASan_Gabriel_Mountains_from_eastern_Pasadena.jpg
+- `15-rainbow.jpg` — File:Double rainbow, Graz, Austria, 2010-05-30.jpg — Dnalor 01 — CC BY-SA 3.0 at — https://commons.wikimedia.org/wiki/File%3ADouble_rainbow%2C_Graz%2C_Austria%2C_2010-05-30.jpg
+- `15-descartes.jpg` — File:Frans Hals - Portret van René Descartes.jpg — After Frans Hals — Public domain — https://commons.wikimedia.org/wiki/File%3AFrans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg
+- `15-sketch.jpg` — File:Descartes Rainbow.png — René Descartes — Public domain — https://commons.wikimedia.org/wiki/File%3ADescartes_Rainbow.png
+- `15-blacker.jpg` — File:Blacker courtyard.jpg — User:Antony-22 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ABlacker_courtyard.jpg
+- `15-spiders.jpg` — File:Collection1-nat-museum-berlin hg.jpg — Hannes Grobe/AWI — CC BY 3.0 — https://commons.wikimedia.org/wiki/File%3ACollection1-nat-museum-berlin_hg.jpg
+- `15-tarantula.jpg` — File:Lasiodora parahybana 2016 G1.jpg — George Chernilevsky — Public domain — https://commons.wikimedia.org/wiki/File%3ALasiodora_parahybana_2016_G1.jpg
+- `15-cray.jpg` — File:Cray-1-deutsches-museum.jpg — Clemens PFEIFFER — CC BY 2.5 — https://commons.wikimedia.org/wiki/File%3ACray-1-deutsches-museum.jpg
+- `15-navajo.jpg` — File:Navajo Nation flag (4910586306).jpg — David from Washington, DC — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ANavajo_Nation_flag_%284910586306%29.jpg
+- `17-hound.jpg` — File:Houn-42 - Frontispiece (Hound of Baskervilles).jpg — Sidney Paget (1860-1908) — Public domain — https://commons.wikimedia.org/wiki/File%3AHoun-42_-_Frontispiece_%28Hound_of_Baskervilles%29.jpg
+- `16-mit.jpg` — File:MIT Killian Court.jpg — Madcoverboy (talk) — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AMIT_Killian_Court.jpg
+- `16-radio.jpg` — File:Radio (AM 1999.54.1-1).jpg — Auckland Museum（藏品照片；收音机由 Zenith / RCA 制造） — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3ARadio_%28AM_1999.54.1-1%29.jpg
+- `17-vichyssoise.jpg` — File:Vichyssoise.jpg — BocaDorada — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AVichyssoise.jpg
+- `16-breadline.jpg` — File:Depression, Breadlines-long line of people waiting to be fed, New York City - NARA - 196499.tif — Unknown authorUnknown author or not provided — Public domain — https://commons.wikimedia.org/wiki/File%3ADepression%2C_Breadlines-long_line_of_people_waiting_to_be_fed%2C_New_York_City_-_NARA_-_196499.tif
+- `17-bovary.jpg` — File:Madame Bovary 1857 (hi-res).jpg — Gustave Flaubert — Public domain — https://commons.wikimedia.org/wiki/File%3AMadame_Bovary_1857_%28hi-res%29.jpg
+- `21-bellevue.jpg` — File:Bellevue skyline from Lake Washington.JPG — Dllu — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ABellevue_skyline_from_Lake_Washington.JPG
+- `17-grimm.jpg` — File:Grimm-Rackham-226.jpg — Arthur Rackham（插图） — Public domain — https://commons.wikimedia.org/wiki/File%3AGrimm-Rackham-226.jpg
+- `16-feynman1974.jpg` — File:Richard Feynman 1974.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_1974.png
+- `17-descartes.jpg` — File:Frans Hals - Portret van René Descartes.jpg — After Frans Hals — Public domain — https://commons.wikimedia.org/wiki/File%3AFrans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg
+- `21-cray.jpg` — File:Cray-1 (1).jpg — NecroBones at English Wikipedia — Public domain — https://commons.wikimedia.org/wiki/File%3ACray-1_%281%29.jpg
+- `13-veneziano.jpg` — File:GabrieleVeneziano.jpg — The original uploader was Betsythedevine at English Wikipedia. — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File%3AGabrieleVeneziano.jpg
+- `13-fleming.jpg` — File:Penicillin Past, Present and Future- the Development and Production of Penicillin, England, 1944 D17802.jpg — Ministry of Information Photo Division Photographer — Public domain — https://commons.wikimedia.org/wiki/File%3APenicillin_Past%2C_Present_and_Future-_the_Development_and_Production_of_Penicillin%2C_England%2C_1944_D17802.jpg
+- `22-losalamos.jpg` — File:Feynman and Oppenheimer at Los Alamos.jpg — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AFeynman_and_Oppenheimer_at_Los_Alamos.jpg
+- `13-dig.jpg` — File:Arthur Lakes illustration of Apatosaurus ajax and Atlantosaurus montanus at Morrison, Colorado.jpg — Arthur Lakes — Public domain — https://commons.wikimedia.org/wiki/File%3AArthur_Lakes_illustration_of_Apatosaurus_ajax_and_Atlantosaurus_montanus_at_Morrison%2C_Colorado.jpg
+- `22-tb.jpg` — File:Mycobacterium tuberculosis.jpg — Photo Credit: Janice Carr Content Providers(s): CDC/ Dr. Ray Butler; Janice Carr — Public domain — https://commons.wikimedia.org/wiki/File%3AMycobacterium_tuberculosis.jpg
+- `13-everest.jpg` — File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006.jpg — Luca Galuzzi (Lucag) — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File%3AEverest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg
+- `22-cart.jpg` — File:Two-wheeled horse-drawn farm cart in the Skye Museum of Island Life.jpg — DeFacto — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ATwo-wheeled_horse-drawn_farm_cart_in_the_Skye_Museum_of_Island_Life.jpg
+- `23-rainbow.jpg` — File:WhereRainbowRises.jpg — Wing-Chi Poon — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File%3AWhereRainbowRises.jpg
+- `24-commission.jpg` — File:Rogers Commission members arrive at Kennedy Space Center.jpg — NASA — Public domain — https://commons.wikimedia.org/wiki/File%3ARogers_Commission_members_arrive_at_Kennedy_Space_Center.jpg
+- `13-mallory.jpg` — File:George Mallory (midden, met cirkel rond het hoofd) en andere leden van de Engelse expeditie die in, SFA022800267.jpg — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AGeorge_Mallory_%28midden%2C_met_cirkel_rond_het_hoofd%29_en_andere_leden_van_de_Engelse_expeditie_die_in%2C_SFA022800267.jpg
+- `24-crew.jpg` — File:Challenger flight 51-l crew.jpg — NASA — Public domain — https://commons.wikimedia.org/wiki/File%3AChallenger_flight_51-l_crew.jpg
+- `14-bunker.jpg` — File:Bunkers in the Drino valley, Albania, September 2022 01.jpg — Calistemon — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ABunkers_in_the_Drino_valley%2C_Albania%2C_September_2022_01.jpg
+- `24-gellmann.jpg` — File:Murray Gell-Mann - World Economic Forum Annual Meeting 2012.jpg — World Economic Forum — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AMurray_Gell-Mann_-_World_Economic_Forum_Annual_Meeting_2012.jpg
+- `14-delphi.jpg` — File:Delphi BW 2017-10-08 11-38-38.jpg — Berthold Werner — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ADelphi_BW_2017-10-08_11-38-38.jpg
+- `24-sfi.jpg` — File:Santa Fe Institute.jpg — Go2placitas — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ASanta_Fe_Institute.jpg
+- `22-sanatorium.jpg` — File:National Jewish Hospital2.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ANational_Jewish_Hospital2.jpg
+- `14-cardinal.jpg` — File:Northern cardinal in CP (02003).jpg — Rhododendrites — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ANorthern_cardinal_in_CP_%2802003%29.jpg
+- `24-bandwagon.jpg` — File:Bandwagon, Circus Museum.jpg — Roger Wollstadt from Sarasota, Florida, U.S.A. — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3ABandwagon%2C_Circus_Museum.jpg
+- `21-tem.jpg` — File:Perkin Elmer Transmission Electron Microscope.jpg — Mary Mark Ockerbloom — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3APerkin_Elmer_Transmission_Electron_Microscope.jpg
+- `24-cassette.jpg` — File:2023 Kaseta magnetofonowa i minikaseta (1).jpg — Jacek Halicki — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A2023_Kaseta_magnetofonowa_i_minikaseta_%281%29.jpg
+- `14-birding.jpg` — File:Birdwatching.jpg — Daniel Schwen — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ABirdwatching.jpg
+- `24-radioshack.jpg` — File:RadioShack Exterior Modified.jpg — RadioShack_exterior.jpg: en:user:freakofnurture derivative work: Ubcule (talk) — Public domain — https://commons.wikimedia.org/wiki/File%3ARadioShack_Exterior_Modified.jpg
+- `14-earthmoon.jpg` — File:Earth & Moon from MESSENGER.png — NASA/APL — Public domain — https://commons.wikimedia.org/wiki/File%3AEarth_%26_Moon_from_MESSENGER.png
+- `24-grave.jpg` — File:Richard P. Feynman’s Grave.jpg — CSRedPanda — CC0 — https://commons.wikimedia.org/wiki/File%3ARichard_P._Feynman%E2%80%99s_Grave.jpg
+- `14-gellmann.jpg` — File:Murray Gell-Mann - World Economic Forum Annual Meeting 2012.jpg — World Economic Forum — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AMurray_Gell-Mann_-_World_Economic_Forum_Annual_Meeting_2012.jpg
+- `24-bread.jpg` — File:Bread slices.jpg — Saral Shots — CC0 — https://commons.wikimedia.org/wiki/File%3ABread_slices.jpg
+- `18-ceiling.jpg` — File:Popcorn ceiling texture close up.jpg — https://www.flickr.com/people/roskvape/ — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3APopcorn_ceiling_texture_close_up.jpg
+- `13-erice.jpg` — File:Castle of Balio, Torretta Pepoli, Erice, Trapani province, Italy, july 2023.jpg — Krzysztof Popławski — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3ACastle_of_Balio%2C_Torretta_Pepoli%2C_Erice%2C_Trapani_province%2C_Italy%2C_july_2023.jpg
+- `18-beanbag.jpg` — File:Zanotta Sacco chair with houndstooth upholstery.jpg — Daniela De Ponti — CC0 — https://commons.wikimedia.org/wiki/File%3AZanotta_Sacco_chair_with_houndstooth_upholstery.jpg
+- `18-harlem.jpg` — File:Pleasant Avenue from East 114th Street, East Harlem, Manhattan, New York.jpg — Deansfa — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3APleasant_Avenue_from_East_114th_Street%2C_East_Harlem%2C_Manhattan%2C_New_York.jpg
+- `24-lima.jpg` — File:Palacio municipa Plaza Mayor, Lima Pérou en 2011.jpg — Pierre André Leclercq — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3APalacio_municipa_Plaza_Mayor%2C_Lima_P%C3%A9rou_en_2011.jpg
+- `19-pencil.jpg` — File:Pencil in glass of water showing refraction (cropped).JPG — Meganbeckett27 — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3APencil_in_glass_of_water_showing_refraction_%28cropped%29.JPG
+- `19-laserpointer.jpg` — File:Laser Pointer green taken apart.jpg — Ll1324 — CC0 — https://commons.wikimedia.org/wiki/File%3ALaser_Pointer_green_taken_apart.jpg
+- `19-feynman1974.jpg` — File:Richard Feynman 1974.png — Unknown authorUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_1974.png
+- `23-feynman1960.jpg` — File:Richard Feynman circa 1960.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_circa_1960.jpg
+- `19-nacl.jpg` — File:Sodium-chloride-unit-cell-3D-balls-and-sticks.png — Benjah-bmm27 — Public domain — https://commons.wikimedia.org/wiki/File%3ASodium-chloride-unit-cell-3D-balls-and-sticks.png
+- `20-examroom.jpg` — File:A typical examination room and exam table in a doctor's office. 01.jpg — Harrison Keely — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3AA_typical_examination_room_and_exam_table_in_a_doctor%27s_office._01.jpg
+- `20-consultation.jpg` — File:The Consultation of Surgeons (BM 1855,0609.1947).jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3AThe_Consultation_of_Surgeons_%28BM_1855%2C0609.1947%29.jpg
+- `20-butterfly.jpg` — File:Living specimen, female.jpg — Stuart B. Herring — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3ALiving_specimen%2C_female.jpg
+- `24-icicles.jpg` — File:Icicles on the Launch Tower - GPN-2000-001348.jpg — NASA — Public domain — https://commons.wikimedia.org/wiki/File%3AIcicles_on_the_Launch_Tower_-_GPN-2000-001348.jpg
+- `20-labcoats.jpg` — File:Lab coats.jpg — Pi. from Leiden, Holland — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ALab_coats.jpg
+- `23-laser.jpg` — File:Laser experiment - Photonics Laboratory - Physics Department - Ateneo de Manila University.jpg — Physics Department Ateneo de Manila University — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ALaser_experiment_-_Photonics_Laboratory_-_Physics_Department_-_Ateneo_de_Manila_University.jpg
+- `18-olive.jpg` — File:Trunk of old olive tree, Balàfia, Ibiza.jpg — Gerda Arendt — CC0 — https://commons.wikimedia.org/wiki/File%3ATrunk_of_old_olive_tree%2C_Bal%C3%A0fia%2C_Ibiza.jpg
+- `21-atoms2.jpg` — File:Au atomic wire.jpg — Hideki Masuda — CC BY 3.0 — https://commons.wikimedia.org/wiki/File%3AAu_atomic_wire.jpg
